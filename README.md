@@ -1,0 +1,2 @@
+# dbsql
+Various SQL tasks
